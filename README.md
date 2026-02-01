@@ -2,17 +2,14 @@
 🏦 Banking Professional | 📊 Data Analytics Enthusiast |  Financial Growth Strategist
 
 🎓  MBA in Business Analytics (STEM), Midwestern State University, Texas 
+
 📊 Researcher with *12 publications, 80+ citations*, and multiple IEEE conference papers
+
 💼  More than two years of hands-on experience in financial risk analysis and compliance support
 
-Banking & Finance professional with an MBA in Business Analytics. Experienced in financial operations, data analysis, and risk-focused analytics. I build projects using Python, SQL, machine learning, and visualization tools to analyze business survival, fraud risk, and financial trends.
 - 🔭 I’m currently working on I’m currently working as a Relationship Banker at Southside Bank, alongside building data analytics and finance-focused projects.
 - 📊 Experience in financial analysis, risk assessment, and compliance support
-- 🔍 Focused on applying AI & Business Analytics for:
-
-Fraud and financial risk analysis 
-Small business failure prediction
-Data-driven financial decision-making
+- 🔍 Focused on applying AI & Business Analytics for: Fraud and financial risk analysis | Small business failure prediction | Data-driven financial decision-making
 🚀 Passionate about turning real U.S. datasets (FDIC, BLS, CFPB) into actionable insights using Python, SQL, and BI tools
 
 Skills: SQL/ Python/ Tableau/ Excel
